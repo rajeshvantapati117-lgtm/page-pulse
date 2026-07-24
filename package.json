@@ -1,0 +1,17 @@
+{
+  "name": "page-pulse",
+  "version": "1.0.0",
+  "description": "A simple Node.js service scaffold for page-pulse",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "cors": "^2.8.0",
+    "dotenv": "^16.4.1",
+    "express": "^4.21.2",
+    "morgan": "^1.6.0"
+  }
+}
