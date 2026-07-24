@@ -66,6 +66,10 @@ Error response:
 }
 ```
 
+## AI tools used
+
+I used GitHub Copilot to accelerate scaffolding, implementation, and test coverage for the API, while validating the behavior locally with Node.js test runs and HTTP checks.
+
 ## Run locally
 
 ```bash
